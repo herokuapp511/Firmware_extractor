@@ -5,7 +5,7 @@
 - lz4
 ### Linux
 ```
-sudo apt update && sudo apt install -y unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract rename liblzma-dev python-pip brotli lz4 protobuf-compiler git gawk && pip install backports.lzma protobuf pycrypto twrpdtgen extract-dtb pycryptodome
+git clone https://github.com/AndroidDumps/Firmware_extractor.git && cd Firmware_extractor && sudo apt update && sudo apt install -y unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract rename liblzma-dev python-pip brotli lz4 protobuf-compiler git gawk && pip install backports.lzma protobuf pycrypto twrpdtgen extract-dtb pycryptodome
 ```
 ### Mac
 ```
